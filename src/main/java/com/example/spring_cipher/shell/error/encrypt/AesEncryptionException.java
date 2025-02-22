@@ -1,4 +1,4 @@
-package com.example.spring_cipher.shell.error;
+package com.example.spring_cipher.shell.error.encrypt;
 
 public class AesEncryptionException extends RuntimeException {
     public AesEncryptionException(String message, Throwable cause) {

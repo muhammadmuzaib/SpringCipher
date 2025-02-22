@@ -1,6 +1,6 @@
 package com.example.spring_cipher.core.service;
 
-import com.example.spring_cipher.shell.error.AesEncryptionException;
+import com.example.spring_cipher.shell.error.encrypt.AesEncryptionException;
 import com.example.spring_cipher.shell.service.AesEncryptionService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -2,7 +2,7 @@ package com.example.spring_cipher;
 
 import com.example.spring_cipher.core.service.AesDecryptionServiceImpl;
 import com.example.spring_cipher.core.service.AesEncryptionServiceImpl;
-import com.example.spring_cipher.shell.error.AesDecryptionException;
+import com.example.spring_cipher.shell.error.decrypt.AesDecryptionException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.test.util.ReflectionTestUtils;

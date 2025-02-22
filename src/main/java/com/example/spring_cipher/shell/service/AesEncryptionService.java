@@ -1,6 +1,6 @@
 package com.example.spring_cipher.shell.service;
 
-import com.example.spring_cipher.shell.error.AesEncryptionException;
+import com.example.spring_cipher.shell.error.encrypt.AesEncryptionException;
 
 public interface AesEncryptionService {
 
